@@ -1,0 +1,9 @@
+.displayy {
+    display: grid;
+    grid-template-columns: 20vw;
+    margin-top: 30px;
+}
+
+.space {
+    margin-bottom: 20px;
+}
